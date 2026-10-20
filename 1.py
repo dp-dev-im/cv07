@@ -1,4 +1,7 @@
 print("hoho")
+print("hoho")
+print("hoho")
+print("hoho")
 x = [1, 2, 3]
 x
 
